@@ -1,0 +1,4 @@
+http://192.168.88.102/state
+http://192.168.88.102/command
+
+{"on":true,"fan_speed":"2","fan_mode":"both","temp_sp":22,"mode":"none","filter":94,"out_temp":86,"in_temp":250,"in_humid":361,"air_pres":41}
